@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="36" viewBox="0 0 1200 36" fill="none" role="img" aria-label="status bar: main · Skylor-Tang/README.md · 0 problems">
+  <defs><clipPath id="r"><rect width="1200" height="36" rx="8"/></clipPath></defs>
+  <g clip-path="url(#r)">
+    <rect width="1200" height="36" fill="#F1F5F9"/>
+    <rect x="0" y="0" width="86" height="36" fill="#4F46E5" fill-opacity="0.15"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#64748B">
+    <path d="M20 13v9m0 0-3.4-3.4M20 22l3.4-3.4" stroke="#4F46E5" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <text x="32" y="23" fill="#4F46E5" font-weight="700">main</text>
+    <text x="100" y="23">Skylor-Tang/README.md</text>
+    <circle cx="286" cy="18" r="3.5" fill="#059669"/>
+    <text x="298" y="23">0 problems</text>
+    <text x="404" y="23">Python 3.12</text>
+    <text x="508" y="23">UTF-8</text>
+    <text x="572" y="23">LF</text>
+    <text x="614" y="23">Ln 1, Col 1</text>
+    <text x="716" y="23">Spaces: 2</text>
+    <text x="812" y="23">agent: available</text>
+    <text x="962" y="23" fill="#4F46E5">skylor-tang.github.io</text>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="35" rx="8" stroke="#0F172A" stroke-opacity="0.10"/>
+</svg>

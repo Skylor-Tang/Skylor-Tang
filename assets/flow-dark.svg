@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" fill="none" role="img" aria-label="How I work: 接到问题 → 拆到最小 → 先跑通 → 交出去">
+  <title>怎么做事：接到问题 → 拆到最小 → 先跑通 → 交出去</title>
+    <g transform="translate(24 34)">
+      <rect width="252" height="86" rx="12" fill="#111A2E" fill-opacity="1" stroke="#FFFFFF" stroke-opacity="0.10"/>
+      <text x="18" y="30" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="1.6" fill="#6366F1">01</text>
+      <text x="18" y="54" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#E2E8F0">接到问题</text>
+      <text x="18" y="74" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" fill="#7C8DA6">先听清真正要解决的</text>
+    </g>
+    <g stroke="#22D3EE" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M282 77H302" stroke-width="1.3" stroke-opacity="0.38"/>
+      <path d="M298 73.2l4 3.8-4 3.8" stroke-width="1.5" stroke-opacity="0.75"/>
+      <circle r="2" cy="77" fill="#22D3EE" stroke="none" opacity="0">
+        <animate attributeName="cx" values="282;304" dur="1.8s" begin="0.0s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.95;0" keyTimes="0;0.6;1" dur="1.8s" begin="0.0s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g transform="translate(316 34)">
+      <rect width="252" height="86" rx="12" fill="#111A2E" fill-opacity="1" stroke="#FFFFFF" stroke-opacity="0.10"/>
+      <text x="18" y="30" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="1.6" fill="#6366F1">02</text>
+      <text x="18" y="54" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#E2E8F0">拆到最小</text>
+      <text x="18" y="74" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" fill="#7C8DA6">找到可以不要的部分</text>
+    </g>
+    <g stroke="#22D3EE" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M574 77H594" stroke-width="1.3" stroke-opacity="0.38"/>
+      <path d="M590 73.2l4 3.8-4 3.8" stroke-width="1.5" stroke-opacity="0.75"/>
+      <circle r="2" cy="77" fill="#22D3EE" stroke="none" opacity="0">
+        <animate attributeName="cx" values="574;596" dur="1.8s" begin="0.45s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.95;0" keyTimes="0;0.6;1" dur="1.8s" begin="0.45s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g transform="translate(608 34)">
+      <rect width="252" height="86" rx="12" fill="#111A2E" fill-opacity="1" stroke="#FFFFFF" stroke-opacity="0.10"/>
+      <text x="18" y="30" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="1.6" fill="#6366F1">03</text>
+      <text x="18" y="54" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#E2E8F0">先跑通</text>
+      <text x="18" y="74" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" fill="#7C8DA6">能跑 &gt; 能完美</text>
+    </g>
+    <g stroke="#22D3EE" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M866 77H886" stroke-width="1.3" stroke-opacity="0.38"/>
+      <path d="M882 73.2l4 3.8-4 3.8" stroke-width="1.5" stroke-opacity="0.75"/>
+      <circle r="2" cy="77" fill="#22D3EE" stroke="none" opacity="0">
+        <animate attributeName="cx" values="866;888" dur="1.8s" begin="0.9s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.95;0" keyTimes="0;0.6;1" dur="1.8s" begin="0.9s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g transform="translate(900 34)">
+      <rect width="252" height="86" rx="12" fill="#111A2E" fill-opacity="1" stroke="#FFFFFF" stroke-opacity="0.10"/>
+      <text x="18" y="30" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="1.6" fill="#6366F1">04</text>
+      <text x="18" y="54" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#E2E8F0">交出去</text>
+      <text x="18" y="74" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" fill="#7C8DA6">别人愿意用，才算完</text>
+    </g>
+</svg>
