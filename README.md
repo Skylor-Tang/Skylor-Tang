@@ -45,41 +45,41 @@ rule:     说不清的事，多半还没想清楚
 <table>
 <thead>
 <tr>
-<th align="left" width="28%">项目</th>
+<th align="left" width="33%">项目</th>
 <th align="left">是什么</th>
-<th align="left" width="20%">栈</th>
+<th align="left" width="16%">栈</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><a href="https://github.com/Skylor-Tang/pi-depot"><b>pi-depot</b></a></td>
+<td width="33%"><a href="https://github.com/Skylor-Tang/pi-depot"><b>pi-depot</b></a></td>
 <td>Agent 全部能力的可视化面板</td>
-<td><code>TypeScript</code></td>
+<td width="16%"><code>TypeScript</code></td>
 </tr>
 <tr>
-<td><a href="https://github.com/Skylor-Tang/auto-venv"><b>auto-venv</b></a> <img alt="stars" src="https://img.shields.io/github/stars/Skylor-Tang/auto-venv?style=flat-square&labelColor=0F172A&color=6366F1"></td>
+<td width="33%"><a href="https://github.com/Skylor-Tang/auto-venv"><b>auto-venv</b></a> <img alt="stars" src="https://img.shields.io/github/stars/Skylor-Tang/auto-venv?style=flat-square&labelColor=0F172A&color=6366F1"></td>
 <td>进目录自动激活 venv 的 zsh 插件</td>
-<td><code>Shell</code></td>
+<td width="16%"><code>Shell</code></td>
 </tr>
 <tr>
-<td><a href="https://github.com/Skylor-Tang/zshrc-sync"><b>zshrc-sync</b></a> <img alt="stars" src="https://img.shields.io/github/stars/Skylor-Tang/zshrc-sync?style=flat-square&labelColor=0F172A&color=6366F1"></td>
+<td width="33%"><a href="https://github.com/Skylor-Tang/zshrc-sync"><b>zshrc-sync</b></a> <img alt="stars" src="https://img.shields.io/github/stars/Skylor-Tang/zshrc-sync?style=flat-square&labelColor=0F172A&color=6366F1"></td>
 <td>.zshrc 变更自动同步到 Git</td>
-<td><code>Shell</code></td>
+<td width="16%"><code>Shell</code></td>
 </tr>
 <tr>
-<td><a href="https://github.com/Skylor-Tang/django-adminutilities"><b>django-adminutilities</b></a></td>
+<td width="33%"><a href="https://github.com/Skylor-Tang/django-adminutilities"><b>django-adminutilities</b></a></td>
 <td>把自定义函数暴露成 Admin 操作</td>
-<td><code>Python</code></td>
+<td width="16%"><code>Python</code></td>
 </tr>
 <tr>
-<td><a href="https://github.com/Skylor-Tang/django-auth-ipwhitelist"><b>django-auth-ipwhitelist</b></a></td>
+<td width="33%"><a href="https://github.com/Skylor-Tang/django-auth-ipwhitelist"><b>django-auth-ipwhitelist</b></a></td>
 <td>登录 IP 白名单认证后端</td>
-<td><code>Python</code></td>
+<td width="16%"><code>Python</code></td>
 </tr>
 <tr>
-<td><a href="https://github.com/Skylor-Tang/skills-agent-proto"><b>skills-agent-proto</b></a></td>
+<td width="33%"><a href="https://github.com/Skylor-Tang/skills-agent-proto"><b>skills-agent-proto</b></a></td>
 <td>Skills 三层加载机制的原理演示</td>
-<td><code>Python</code></td>
+<td width="16%"><code>Python</code></td>
 </tr>
 </tbody>
 </table>
